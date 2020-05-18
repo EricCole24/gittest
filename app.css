@@ -1,0 +1,30 @@
+body{
+    color: red;
+    margin: 0;
+}
+.text-center{
+    text-align: center;
+}
+.text-blue{
+    color: blue;
+}
+#submitButton{
+    background: red;
+}
+[for='email']{
+    font-weight: bold;
+}
+
+h1{
+    color: red;
+}
+input, label, button {
+    display: block;
+}
+main{
+    margin-left: 3em;
+}
+button{
+    margin: 1em;
+    padding: 0 1em;
+}
